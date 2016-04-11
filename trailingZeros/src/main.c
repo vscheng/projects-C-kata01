@@ -7,15 +7,11 @@
 //
 
 #include "main.h"
-
-#include <stdio.h>
+#include "other.h"
 
 int main (void)
 {
   greetings ();
 }
 
-void greetings (void)
-{
-  printf ("hello world\n");
-}
+
